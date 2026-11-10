@@ -19,9 +19,9 @@
 
 ### 💼 Atuação na Hunter KA
 
-Atuo como responsável técnico pela área de Tecnologia e Desenvolvimento da Hunter KA, conduzindo de ponta a ponta o levantamento de requisitos, arquitetura de software, modelagem de banco de dados e decisões de infraestrutura[cite: 8, 9]. 
+Atuo como responsável técnico pela área de Tecnologia e Desenvolvimento da Hunter KA, conduzindo de ponta a ponta o levantamento de requisitos, arquitetura de software, modelagem de banco de dados e decisões de infraestrutura. 
 
-Minha missão principal é liderar a transformação digital da operação, convertendo fluxos legados dependentes de planilhas e relatórios manuais em plataformas web B2B centralizadas, auditáveis e de alta performance[cite: 9]. A minha bagagem prévia como Analista de Processos e Logística garante que cada linha de código seja orientada a regras de negócio reais, mitigação de custos e conciliação quantitativa precisa[cite: 8, 9].
+Minha missão principal é liderar a transformação digital da operação, convertendo fluxos legados dependentes de planilhas e relatórios manuais em plataformas web B2B centralizadas, auditáveis e de alta performance. A minha bagagem prévia como Analista de Processos e Logística garante que cada linha de código seja orientada a regras de negócio reais, mitigação de custos e conciliação quantitativa precisa.
 
 ---
 
@@ -40,9 +40,9 @@ O **EXATUS** é o motor SaaS proprietário desenvolvido na Hunter KA para elimin
 
 ### ⚙️ Outras Frentes Técnicas e Projetos Internos
 
-* **Modernização de Processos & ETL:** Desenvolvimento de rotinas automatizadas para extração, validação e estruturação de bases complexas de dados de faturamento e operações com Pandas e PostgreSQL[cite: 9].
-* **Módulos de Auditoria e Estoque:** Algoritmos para conciliação física versus contábil de insumos e produtos, eliminando furos de inventário e reduzindo o tempo operacional de conferência[cite: 8, 10].
-* **Automação com IA:** Implementação prática de modelos de IA Generativa integrados à API para suporte à tomada de decisões e enriquecimento de relatórios de gestão[cite: 8, 9].
+* **Modernização de Processos & ETL:** Desenvolvimento de rotinas automatizadas para extração, validação e estruturação de bases complexas de dados de faturamento e operações com Pandas e PostgreSQL.
+* **Módulos de Auditoria e Estoque:** Algoritmos para conciliação física versus contábil de insumos e produtos, eliminando furos de inventário e reduzindo o tempo operacional de conferência.
+* **Automação com IA:** Implementação prática de modelos de IA Generativa integrados à API para suporte à tomada de decisões e enriquecimento de relatórios de gestão.
 
 ---
 
@@ -50,18 +50,18 @@ O **EXATUS** é o motor SaaS proprietário desenvolvido na Hunter KA para elimin
 
 | Camada | Stack Principal |
 | :--- | :--- |
-| **Backend & Serviços** | Python (FastAPI, SQLAlchemy, Pandas, Openpyxl), APIs RESTful assíncronas, IA Generativa (Google Gemini API)[cite: 8, 9] |
-| **Dados & Persistência** | PostgreSQL, Migrações com Alembic, Modelagem Relacional, ETL e Salesforce (Data Loader, Schema Builder)[cite: 8, 9] |
-| **Frontend & UI** | React, TypeScript (TSX), Tailwind CSS, Vite, Recharts, Bootstrap 5[cite: 8, 9] |
-| **Segurança & Governança** | Autenticação JWT/OAuth2, Criptografia Bcrypt, Rate Limiting (SlowAPI), Isolamento Multi-tenant[cite: 8, 9] |
-| **Engenharia de Processos** | Git/GitHub, Metodologias Ágeis (Scrum/Kanban), Gestão de Custos e Processos Operacionais[cite: 8, 9] |
+| **Backend & Serviços** | Python (FastAPI, SQLAlchemy, Pandas, Openpyxl), APIs RESTful assíncronas, IA Generativa (Google Gemini API) |
+| **Dados & Persistência** | PostgreSQL, Migrações com Alembic, Modelagem Relacional, ETL e Salesforce (Data Loader, Schema Builder) |
+| **Frontend & UI** | React, TypeScript (TSX), Tailwind CSS, Vite, Recharts, Bootstrap 5 |
+| **Segurança & Governança** | Autenticação JWT/OAuth2, Criptografia Bcrypt, Rate Limiting (SlowAPI), Isolamento Multi-tenant |
+| **Engenharia de Processos** | Git/GitHub, Metodologias Ágeis (Scrum/Kanban), Gestão de Custos e Processos Operacionais |
 
 ---
 
 ### 🎓 Formação Acadêmica
 
-* **Bacharelado em Ciência da Computação** — Centro Universitário FSG *(Em andamento)*[cite: 8, 11]
-* **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Centro Universitário FSG *(Concluído)*[cite: 8, 11]
+* **Bacharelado em Ciência da Computação** — Centro Universitário FSG *(Em andamento)*
+* **Graduado em Análise e Desenvolvimento de Sistemas** — Centro Universitário FSG *(Concluído)*
 
 ---
 
